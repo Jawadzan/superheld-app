@@ -78,6 +78,7 @@ https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda74
 https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L13
 https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L11-L20
 
+
 #### JSON manipuleren en weergeven
 https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L14
 https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L6
@@ -87,3 +88,8 @@ https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda74
 #### Gebruik van LocalStorage 
 https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L6
 https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L90
+
+## Screenshots applicatie
+![scr2](https://github.com/user-attachments/assets/ab945ca9-0b30-410e-8285-8fd51594032e)
+![scr3](https://github.com/user-attachments/assets/ef3d46bc-9c09-4ea9-a283-1619b7c7f09b)
+![scr1](https://github.com/user-attachments/assets/90575ac7-9459-4b61-98d3-10fe5fd6c320)
