@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Superhelden Explorer</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Inter:wght@400&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <h1>Superhelden Explorer</h1>
+    <div class="controls">
+      <input type="text" id="search-input" placeholder="Zoek superhelden..." />
+      <select id="filter-publisher">
+        <option value="all">Alle Uitgevers</option>
+        <option value="Marvel Comics">Marvel Comics</option>
+        <option value="DC Comics">DC Comics</option>
+        <option value="Dark Horse Comics">Dark Horse Comics</option>
+      </select>
+      <select id="filter-gender">
+        <option value="all">All Geslachten</option>
+        <option value="Male">Man</option>
+        <option value="Female">Vrouw</option>
+      </select>
+      <button id="sort-name">Sorteer op naam</button>
+      <button id="sort-power">Sorteer op kracht</button>
+      <button id="toggle-favorites">Toon Favorieten</button>
+      <button id="random-hero">🎲 Random Held</button>
+    </div>
+  </header>
+
+  <main>
+    <div id="hero-list" class="hero-grid"></div>
+  </main>
+
+
+  <script type="module" src="src/main.js"></script>
+</body>
+</html>
