@@ -35,3 +35,40 @@ https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda74
 #### Gebruik van constanten
 https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L26
 https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L30
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L33-L38  
+
+#### Template literals
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L44-L54
+
+#### Iteratie over arrays
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L29
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L63
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L106-L108
+
+#### Array methodes
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L29
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L41
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L17
+
+#### Arrow functions
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L106-L107
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L64
+
+#### Conditional (ternary) operator (moderne if..else)
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L42
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L185
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L187-L189
+
+#### Callback functions
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L64
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L98
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L104
+
+#### Promises
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L13
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L14
+
+#### Async & Await
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L11
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L13
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L14
