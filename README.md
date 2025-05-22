@@ -1,2 +1,37 @@
-1.Projectbeschrijving en functionaliteiten
+## Projectbeschrijving en functionaliteiten
+Voor dit project heb ik besloten om een dynamische site te maken over superhelden. De API die heb gekozen laat toe om superhelden te tonen met allerlei gegevens zoals: naam, uitgever, geboorteplaats, geslacht, enz.  
+Ik heb verschillende functionaliteiten geïmplementeerd in mijn project om de user een goede ervaring te geven. Ik heb namelijk een zoekoptie, een filteroptie op basis van uitgever en geslacht en een sorteeroptie op basis van naam en kracht toegevoegd.  
+Ook heb ik een favorieten functie die toelaat om je favorieten op te slaan en te laten zien. En als laatst heb ik een random held optie toegevoegd en deze laat een willekeurige held zien zodat je makkelijk nieuwe superhelden kan ontdekken op een leuke manier.
 
+## Gebruikte API's met links
+De API die ik heb gebruikt is: [SuperHero API](https://superheroapi.com/)  
+Voor extra details over hun documentatie heb ik alle informatie gevonden op hun [Github](https://github.com/akabab/superhero-api)  
+
+## Implementatie van elke technisch vereiste
+### 1.DOM manipulatie
+#### A.Elementen selecteren
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L26
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L63
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L103
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L119
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L184  
+
+#### B.Elementen manipuleren
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L27
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L30-L31
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L44-L54
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L55
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L70-L71
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L185  
+
+#### C.Events aan elementen koppelen
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L64
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L103
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L119
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L147
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L205  
+
+### Modern Javascript
+#### Gebruik van constanten
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L26
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L30
