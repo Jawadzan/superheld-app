@@ -93,3 +93,9 @@ https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda74
 ![scr2](https://github.com/user-attachments/assets/ab945ca9-0b30-410e-8285-8fd51594032e)
 ![scr3](https://github.com/user-attachments/assets/ef3d46bc-9c09-4ea9-a283-1619b7c7f09b)
 ![scr1](https://github.com/user-attachments/assets/90575ac7-9459-4b61-98d3-10fe5fd6c320)
+
+## Gebruikte bronnen
+https://www.geeksforgeeks.org/debouncing-in-javascript/
+https://www.geeksforgeeks.org/javascript-fetch-method/
+https://stackoverflow.com/questions/28259389/how-to-put-script-in-a-javascript-string
+https://stackoverflow.com/questions/43325543/css-selectors-difference-between-and-when-to-use-or
