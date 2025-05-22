@@ -72,3 +72,18 @@ https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda74
 https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L11
 https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L13
 https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L14
+
+### 3.Data & API
+#### Fetch om data op te halen
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L13
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L11-L20
+
+#### JSON manipuleren en weergeven
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L14
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L6
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L90
+
+### 4.Opslag & validatie
+#### Gebruik van LocalStorage 
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L6
+https://github.com/Jawadzan/superheld-app/blob/2866dc6603b3c506393497bd46f4dda747599b40/src/main.js#L90
